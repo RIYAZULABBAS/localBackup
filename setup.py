@@ -54,8 +54,8 @@ def get_absolute_path(*args):
       description="Linux system backups powered by rsync",
       long_description=get_contents('README.rst'),
       url='https://github.com/xolox/python-rsync-system-backup',
-      author="Peter Odding",
-      author_email='peter@peterodding.com',
+      author="RIYAZUL ABBAS",
+      author_email='email4riyaz@gmail.com',
       license='MIT',
       packages=find_packages(),
       entry_points=dict(console_scripts=[
